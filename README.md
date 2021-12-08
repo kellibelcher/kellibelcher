@@ -17,7 +17,7 @@
 [1]: https://github.com/kellibelcher/kellibelcher/blob/main/images/linkedin36.png (LinkedIn)
 [2]: https://www.linkedin.com/in/kelli-belcher/ 
 [3]: https://github.com/kellibelcher/kellibelcher/blob/main/images/kaggle36.png (Kaggle)
-[4]: https://www.kaggle.com/kellibelcher/code
+[4]: https://www.kaggle.com/kellibelcher
 [5]: https://github.com/kellibelcher/kellibelcher/blob/main/images/rstudio48.png (R)
 [6]: https://rpubs.com/kellibelcher
 [7]: https://github.com/kellibelcher/kellibelcher/blob/main/images/python48.png (Python) 
