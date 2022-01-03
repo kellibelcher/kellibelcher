@@ -1,23 +1,23 @@
-## Hi there! <img src="https://github.com/kellibelcher/kellibelcher/blob/main/images/wave.gif" width="32px">
+## Hi there, I'm Kelli! <img src="https://github.com/kellibelcher/kellibelcher/blob/main/images/wave.gif" width="32px">
 
-&nbsp; :octocat: My name's Kelli and I love all things data science.
+&nbsp; :octocat: I'm a Decision Science Analyst who loves solving problems with data.  
+&nbsp; 🚀 I graduated from UTSA with a Master's in Data Analytics.   
+&nbsp; 🌱 I enjoy working on data science projects and am currently completing Coursera's [Machine Learning](https://github.com/kellibelcher/Coursera-Machine-Learning-Professional-Certificate) certificate.  
+&nbsp; 🌈 In my free time, I like to create photos and explore new places with my camera.
 
-&nbsp; 🚀 I graduated from UTSA with a Master's in Data Analytics. 
+### Languages and tools I've picked up along my learning journey 🛠️ 
+&nbsp; [![R][5]][6] &nbsp; [![python][7]][8] &nbsp; [![scikit][9]][10] &nbsp; [![jupyter][11]][12] &nbsp; [![git][13]][14] &nbsp; [![Tableau][15]][16] &nbsp; [![SQL][17]][18]
+<br>
 
-&nbsp; 🌱 I'm currently working on expanding my data science toolkit and completing IBM's Machine Learning certificate.
-
-&nbsp; 🌈 Fun facts: I'm Canadian 🍁 currently living in San Antonio and I also do some photography in my free time. 📷
-
-## Tools & Technologies
-&nbsp; [![R][5]][6] &nbsp; [![python][7]][8] &nbsp; [![scikit][9]][10] &nbsp; [![jupyter][11]][12] &nbsp; [![git][13]][14]
-
-## Connect with me
-&nbsp; [![LinkedIn][1]][2] [![Kaggle][3]][4]
+### Connect with me
+&nbsp; [![LinkedIn][1]][2]&nbsp; [![Twitter][19]][20] [![Kaggle][3]][4]
 <!-- icons -->
 [1]: https://github.com/kellibelcher/kellibelcher/blob/main/images/linkedin36.png (LinkedIn)
 [2]: https://www.linkedin.com/in/kelli-belcher/ 
 [3]: https://github.com/kellibelcher/kellibelcher/blob/main/images/kaggle36.png (Kaggle)
 [4]: https://www.kaggle.com/kellibelcher
+[19]: https://github.com/kellibelcher/kellibelcher/blob/main/images/twitter36.png (Twitter)
+[20]: https://twitter.com/kxbelle_
 [5]: https://github.com/kellibelcher/kellibelcher/blob/main/images/rstudio48.png (R)
 [6]: https://rpubs.com/kellibelcher
 [7]: https://github.com/kellibelcher/kellibelcher/blob/main/images/python48.png (Python) 
@@ -28,3 +28,7 @@
 [12]: https://jupyter.org/
 [13]: https://github.com/kellibelcher/kellibelcher/blob/main/images/git48.png (Git)
 [14]: https://git-scm.com/
+[15]: https://github.com/kellibelcher/kellibelcher/blob/main/images/tableau48.png (Tableau)
+[16]: https://www.tableau.com/
+[17]: https://github.com/kellibelcher/kellibelcher/blob/main/images/sql48.png (SQL)
+[18]: https://www.sqlite.org/index.html
