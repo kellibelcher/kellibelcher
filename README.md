@@ -10,13 +10,13 @@
 <br>
 
 ### Connect with me
-&nbsp; [![LinkedIn][1]][2]&nbsp; [![Twitter][19]][20] [![Kaggle][3]][4]
+&nbsp; [![LinkedIn][1]][2] &nbsp; [![Twitter][19]][20] [![Kaggle][3]][4]
 <!-- icons -->
 [1]: https://github.com/kellibelcher/kellibelcher/blob/main/images/linkedin36.png (LinkedIn)
 [2]: https://www.linkedin.com/in/kelli-belcher/ 
 [3]: https://github.com/kellibelcher/kellibelcher/blob/main/images/kaggle36.png (Kaggle)
 [4]: https://www.kaggle.com/kellibelcher
-[19]: https://github.com/kellibelcher/kellibelcher/blob/main/images/twitter36.png (Twitter)
+[19]: https://github.com/kellibelcher/kellibelcher/blob/main/images/twitter-36.png (Twitter)
 [20]: https://twitter.com/kxbelle_
 [5]: https://github.com/kellibelcher/kellibelcher/blob/main/images/rstudio48.png (R)
 [6]: https://rpubs.com/kellibelcher
