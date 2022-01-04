@@ -3,9 +3,9 @@
 &nbsp; :octocat: I'm a Decision Science Analyst who loves solving problems with data.  
 &nbsp; 🚀 I graduated from UTSA with a Master's in Data Analytics.   
 &nbsp; 🌱 I enjoy working on data science projects and am currently completing Coursera's [Machine Learning](https://github.com/kellibelcher/Coursera-Machine-Learning-Professional-Certificate) certificate.  
-&nbsp; 🌈 In my free time, I like to create photos and explore new places with my camera.
+&nbsp; 🌈 In my free time, I like to create photos and explore new places with my camera. 📷
 
-### Languages and tools I've picked up along my learning journey 🛠️ 
+### Languages and tools I've picked up along my learning journey
 &nbsp; [![R][5]][6] &nbsp; [![python][7]][8] &nbsp; [![scikit][9]][10] &nbsp; [![jupyter][11]][12] &nbsp; [![git][13]][14] &nbsp; [![Tableau][15]][16] &nbsp; [![SQL][17]][18]
 <br>
 
