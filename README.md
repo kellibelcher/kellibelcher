@@ -1,12 +1,12 @@
-## Hi there, I'm Kelli! <img src="https://github.com/kellibelcher/kellibelcher/blob/main/images/wave.gif" width="32px">
+## Hi there, I'm Kelli! <img src="https://github.com/kellibelcher/kellibelcher/blob/main/images/wave.gif" height="28px">
 
 &nbsp; :octocat: I'm a Decision Science Analyst who loves solving problems with data.  
 &nbsp; 🚀 I graduated from UTSA with a Master's in Data Analytics.   
 &nbsp; 🌱 I'm currently learning more about Deep Learning and Reinforcement Learning in Coursera's [Machine Learning](https://github.com/kellibelcher/Coursera-Machine-Learning-Professional-Certificate) certificate.  
 &nbsp; 🌈 In my free time, I like to create photos and explore new places with my camera. 📷
 
-### Languages and tools I've picked up along my learning journey
-&nbsp; [![R][5]][6] &nbsp; [![python][7]][8] &nbsp; [![scikit][9]][10] &nbsp; [![jupyter][11]][12] &nbsp; [![git][13]][14] &nbsp; [![Tableau][15]][16] &nbsp; [![SQL][17]][18]
+### Languages and tools I'm familiar with
+[![python][7]][8] &nbsp; [![scikit][9]][10] &nbsp; [![jupyter][11]][12] &nbsp; [![git][13]][14] &nbsp; [![Tableau][15]][16] &nbsp; [![R][5]][6] &nbsp; [![SQL][17]][18]
 <br>
 
 ### Connect with me
